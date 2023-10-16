@@ -1,0 +1,4 @@
+cross-site scripting attack alias XSS:-
+
+Certainly! Cross-Site Scripting (XSS) is a security vulnerability that can affect web applications, including those built using PHP. it's great to learn about security issues like XSS.
+

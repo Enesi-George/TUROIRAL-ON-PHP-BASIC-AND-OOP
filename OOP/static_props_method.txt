@@ -1,0 +1,1 @@
+static property or method of a class or objects is one which can be accessed via the class directly and not via the instance of the class.

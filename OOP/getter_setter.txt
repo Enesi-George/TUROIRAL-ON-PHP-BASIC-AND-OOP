@@ -1,0 +1,3 @@
+getter is a method or function defined that is going to get a private properties
+
+also setter is a method or function defined to set or change a private properties

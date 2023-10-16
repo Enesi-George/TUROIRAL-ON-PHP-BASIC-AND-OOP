@@ -1,0 +1,7 @@
+a __construct() function is an example of magic method or function because it has two underscore at its front.
+basicly, magic method is identified by its tow underscore specified in the function. 
+another one is the __destruct() function which is the opposite of the __construct() method of function.
+we then also have the __clone() method.
+
+
+__destruct() is used to perform any kind of cleanup or use to run any final code whenever the last reference to an object instance is removed.

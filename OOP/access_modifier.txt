@@ -1,0 +1,6 @@
+video5
+
+access or visibility modifier:- is a way of protecting different properties and method from being accessed. there are three type of access modifier which are:-
+> public access modifier:- properties and method being access publicly.
+> private access modifier: propeties and method being access privately only.
+>protected access modider:- act like a private but the features can be accessed from an inherited class. see video-7

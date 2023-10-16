@@ -1,0 +1,10 @@
+$this: it reference the instance of the class
+while 
+
+self: reference the class itself instead of it instance
+
+
+when creating a form, the action="" describe what php script is going to fire or run when the user click on submit.
+
+
+null coalesce operator:
